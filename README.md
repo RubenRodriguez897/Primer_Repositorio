@@ -1,2 +1,4 @@
 # Primer_Repositorio
-Este es mi primer repositorio en el cual están disponibles mis practicas 
+Este repositorio es propiedad de: Ruben Rodríguez Flores
+
+En este Repositorio están disponibles mis prácticas de la segunda unidad realizadas en PHP. 
